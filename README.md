@@ -5,10 +5,10 @@ Description:
  This is a Basic C++ Program.
  This includes string and integer function.
 
-# Sources Used
->Language- C++
->Compiler- G++
->Code Editor- VS code
+# Sources Used: 
+>Language- C++ |
+>Compiler- G++|
+>Code Editor- VS code|
 
 ---
 This is my first C++ project in Github.
